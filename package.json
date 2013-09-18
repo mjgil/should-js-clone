@@ -1,0 +1,12 @@
+{
+  "name": "should",
+  "description": "test framework agnostic BDD-style assertions [copied from visionmedia/should.js]",
+  "version": "0.0.1",
+  "author": "Malcom Gilbert",
+  "repository": {"type": "git", "url": "git://github.com/mjgil/should-js-clone.git"},
+  "scripts": {"test": "make test"},
+  "devDependencies": {"mocha": "*"},
+  "keywords": ["test", "bdd", "assert"],
+  "main": "./lib/should.js",
+  "engines": {"node": ">= 0.2.0"}
+}
